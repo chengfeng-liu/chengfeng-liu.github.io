@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我和数据有个约会</title>
+    <link>https://chengfeng-liu.github.io/post/</link>
+    <description>Recent content in Posts on 我和数据有个约会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chengfeng-liu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>教程汇总和笔记书籍</title>
+      <link>https://chengfeng-liu.github.io/p/%E6%95%99%E7%A8%8B%E6%B1%87%E6%80%BB%E5%92%8C%E7%AC%94%E8%AE%B0%E4%B9%A6%E7%B1%8D/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chengfeng-liu.github.io/p/%E6%95%99%E7%A8%8B%E6%B1%87%E6%80%BB%E5%92%8C%E7%AC%94%E8%AE%B0%E4%B9%A6%E7%B1%8D/</guid>
+      <description>教程汇总和笔记书籍。</description>
+    </item>
+    
+  </channel>
+</rss>
